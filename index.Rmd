@@ -1,0 +1,39 @@
+--- 
+title: "Grimoire Pharmaquest"
+author: "Charles Dolladille"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: cdolladille/pharmaquest_book
+description: "Recueil d'informations pour conduire l'etude Pharmaquest, ou tout autre projet similaire."
+---
+
+# Motivation
+
+```{r echo=FALSE, out.width="75%"}
+knitr::include_graphics("images/illustration_4.jpg")
+```
+
+
+> Travail en cours de construction
+
+Pharmaquest est une étude observationnelle, prospective, monocentrique,
+de recherche en pédagogie médicale.
+
+Cette étude vise à mieux comprendre l'influence des différentes modalités 
+d'apprentissage sur la réussite des étudiants aux examens de pharmacologie.
+
+Plus généralement, elle s'inscrit dans une démarche de quantification entre des
+variables d'exposition et la réussite aux examens de pharmacologie, que ce soit
+à court, moyen ou long terme.
+
+L'objectif de cet ouvrage est de permettre d'identifier les principales étapes
+de construction de l'étude, en gardant trace de la façon dont l'information a
+été collectée et traitée.
+
+Plusieurs sources de données sont utilisées, elles feront chacune l'objet d'un 
+chapitre dédié.

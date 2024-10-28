@@ -1,0 +1,47 @@
+# Caractéristiques de base {#baselinechar}
+
+## Structure des données
+
+### Consentement
+
+La signature du consentement est faite de façon dématérialisée.
+
+La notice de consentement est intégralement présentée aux étudiants, qui ont
+bénéficié d'un délai de réflexion avant de signer.
+
+S'ils acceptent de participer, ils cochent la case ad hoc.
+
+### Eligibilité
+
+Les critères d'inclusion :
+
+-    Etudiant inscrit en médecine de 2ème année de licence (DFGSM 2)
+
+-    Apte à signer un consentement
+
+-    Sans mesure de tutelle/curatelle/sauvegarde de justice
+
+-    Agé de 18 ans ou plus (majeur)
+
+Les critères de non-inclusion :
+
+-    Etudiant ayant réalisé plus de 3 années d’étude de la médecine ou santé 
+avant l’année actuelle, dans un autre établissement ou un autre pays, 
+ou titulaire d’une capacité, d’un diplôme en pharmacologie
+
+-    Etudiant n’ayant aucun accès à internet, y compris sur son lieu d’étude
+
+
+Nota bene : les étudiants passereliens sont éligibles, du moment qu'ils
+répondent aux critères d'inclusion et ne répondent pas aux critères de non-inclusions.
+Selon leur âge, ils ne peuvent cependant pas répondre correctement à la question
+sur les options du baccalauréat (car seules les options en vigueur à partir de
+2019 sont proposées au choix). Il leur a été indiqué de renseigner 
+"Mathématiques" et "Physique" (**à vérifier**).
+
+### Identification étudiant, mot-quest
+
+### Variables démographiques
+
+### Parcours
+

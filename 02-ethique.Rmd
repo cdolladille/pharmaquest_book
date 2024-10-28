@@ -1,0 +1,44 @@
+# Aspects éthiques {#ethique}
+
+## Accords réglementaires - Comité d'Ethique de la Recherche
+
+En tant que projet de recherche prospectif observationnel, il est nécessaire
+d'obtenir un accord éthique préalablement à la mise en place de l'étude.
+
+Pour Pharmaquest première itération, un avis spécifique du Comité d'Ethique
+de la Recherche a été demandé et obtenu.
+
+Pour les itérations suivantes, il a été fait mention de la possibilité 
+d'invoquer les intérêts légitimes de l'université pour justifier de la réalisation
+de cette étude. L'université a en effet pour mission non seulement de dispenser
+les enseignements mais aussi de les évaluer, en vue de pouvoir les améliorer.
+(**référence et terminologie exactes à préciser**)
+
+Cela aurait le double avantage d'alléger la procédure pour conduire l'étude
+et de s'assurer de la partition de l'ensemble des étudiants, évitant ainsi
+un potentiel biais de sélection.
+
+A cette fin, un contact auprès de l'Equipe d'Orientation et d'Insertion a été
+sollicité.
+
+## Protection des étudiants
+
+Collecte de données nominatives (pour croisement des sources)
+
+Objectif : ne pas nuire au parcours de l’étudiant
+
+-   Pas d’analyse des données avant la fin des examens
+   
+-   Données pseudonymisées
+   
+-   Pas de divulgation d’information à l’échelle individuelle à l’équipe enseignante
+
+Faire valoir les intérêts pour l'étudiant
+
+-   Permet d'identifier les ressources potentiellement les plus utiles pour
+    l'étudiant
+    
+-   Pouvant conduire à une adaptation de sa méthode de travail le cas échéant
+
+-   Pouvant conduire à des changements dans les modalités d'enseignement pour
+d'autres disciplines auxquelles il/elle est susceptible de participer.

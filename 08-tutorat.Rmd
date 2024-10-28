@@ -1,0 +1,30 @@
+# Assiduité aux séances de tutorat {#tutorat}
+
+## Modalités de recueil
+
+La corporation étudiante met à disposition des étudiants un service de tutorat.
+
+Le principe : Les étudiants de l'année supérieure (en l'occurrence, L3),
+se chargent de composer un sujet d'examen blanc pour les élèves de l'année
+inférieure (en l'occurrence, L2). 
+
+Les sujets peuvent être relus par les enseignants de la discipline.
+
+Les élèves de L2 passent l'examen blanc, et les élèves de L3 corrigent les
+copies, assistés pour les questions à choix multiple des systèmes automatisés
+de la faculté (correction automatique de grilles).
+
+En 2024-2025, le sujet de tutorat de pharmacologie ne contenait que des 
+questions à choix multiple.
+
+Au début et à la fin de l'épreuve, pendant 5 minutes, le QR code de présence,
+identique à celui des cours, est montré aux étudiants. Ils peuvent le scanner
+de la même façon pour indiquer leur présence.
+
+## Structure des données
+
+Nom, prénom, numéro étudiant.
+
+Présence des étudiants à l'examen blanc de tutorat en pharmacologie. (oui/non)
+
+Note des étudiants à l'examen blanc de tutorat en pharmacologie. (/20).

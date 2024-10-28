@@ -1,0 +1,40 @@
+# Examen de pharmacologie {#examen}
+
+## Modalités de recueil
+
+Les notes d'examen, assorties des identifiants étudiants, sont
+recueillies auprès de la DSI de l'UFR Santé.
+
+## Description
+
+Il s'agit des notes de l'examen final de l'Unité d'Enseignement
+de Pharmacologie (BMCT : Bases moléculaires, cellulaires et tissulaires des 
+traitements médicamenteux), de 1ère session.
+
+Cet examen est le seul contrôle de connaissance de l'UE de Pharmacologie.
+Il est composé de Questions Isolées, pouvant reprendre l'ensemble des modalités
+permises pour les épreuves dématérialisées nationales (EDN), incluant donc
+des Questions à Choix Multiples, des Questions à Réponse Unique,
+des Questions à Réponse Ouverte et Courte, des Questions à Réponse par liste...
+
+Chaque cours de l'UE est couvert par au moins une question.
+Les réponses aux questions ont pu être abordées en cours présentiel, 
+et sont obligatoirement présentes dans les supports de cours mis à 
+disposition en ligne.
+
+Les enseignants contribuent chacun à la rédaction des questions sur les cours
+qu'ils ont dispensé.
+
+Le sujet complet est relu pour validation par la responsable de l'UE.
+
+Le sujet est finalisé environ un mois avant la tenue du partiel.
+
+Les supports de cours respectifs sont mis en ligne immédiatement 
+après chaque cours présentiel. Ils ne sont pas accessibles aux étudiants
+avant le cours.
+
+## Structure des données
+
+Nom, prénom, numéro étudiant.
+
+Note des étudiants à l'examen de pharmacologie. (/20).

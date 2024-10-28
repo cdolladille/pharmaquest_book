@@ -1,0 +1,31 @@
+# Assiduité au Roneo {#roneo}
+
+## Modalités de recueil
+
+La corporation étudiante met à disposition des étudiants un service de Ronéo.
+
+Le principe : Un ou plusieurs étudiants se chargent de la prise de notes 
+des cours magistraux, des TDs, et autres enseignements. 
+Ces notes sont ensuite retranscrites (ronéotées) et mises à disposition des 
+autres étudiants, moyennant une rétribution pour la corporation.
+
+Pour pouvoir consulter les Ronéos, il faut être inscrit à la corporation, 
+avoir choisi un forfait Ronéo selon ses besoins, et venir retirer les documents.
+
+## Structure des données
+
+Nom, prénom, numéro étudiant.
+
+Inscription à un forfait ronéo couvrant la pharmacologie (oui/non)
+
+Dates de récupération des documents (permettant de déduire une "assiduité ronéo").
+
+Attention, les Ronéos sont mis à disposition chaque semaine aux étudiants.
+Cependant, il arrive qu'un étudiant récupère plusieurs Ronéos en une seule fois, 
+sans venir nécessairement chaque semaine. De fait, les dates de récupération 
+ne sont qu'un proxy de l'assiduité.
+
+Par ailleurs, la dernière série de documents Ronéos est mise en ligne sur un espace
+cloud (car certains étudiants rentrent chez leurs parents pour réviser). 
+Les étudiants peuvent donc récupérer des documents sans se déplacer dans les locaux
+de la corporation étudiante. Cette consultation de document n'est pas traçable.

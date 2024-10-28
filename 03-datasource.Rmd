@@ -1,0 +1,22 @@
+# Sources de données
+
+Ce chapitre est un sommaire des différentes sources de données utilisées
+
+-   Caractéristiques des participants \@ref(baselinechar)
+
+-   Assiduité aux cours de pharmacologie \@ref(lectures)
+
+-   Assiduité aux ressources en ligne \@ref(online)
+
+-   Assiduité au Ronéo \@ref(roneo)
+
+-   Assiduité aux séances de tutorat \@ref(tutorat)
+
+## Chainage
+
+Les données sont liées par un code de pseudo-nymisation attribué à chaque étudiant.
+
+L'affectation du code de pseudo-nymisation est prévue comme une étape semi-automatique,
+car il est vraisemblable que les étudiants commettent des erreurs dans la saisie 
+de leur code universitaire au cours des différentes étapes de recueil.
+

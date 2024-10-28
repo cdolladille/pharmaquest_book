@@ -1,0 +1,51 @@
+# Assiduité aux cours de pharmacologie {#lectures}
+
+## Modalités de recueil
+
+Les cours de pharmacologie de l'Université de Caen Normandie sont optionnels.
+Les étudiants sont encouragés à y assister, notamment lors de la réunion 
+de pré-rentrée organisée par les enseignants de pharmacologie.
+
+Au début et à la fin de chaque cours, pendant 5 minutes, un QR code est présenté
+aux étudiants. En scannant le QR code, ils sont redirigés vers un formulaire
+dans lequel ils doivent renseigner leur numéro d'étudiant et leur mot-quest,
+défini au moment de l'inclusion.
+
+Ce questionnaire est un Limesurvey, horodaté. 
+
+Le questionnaire est unique pour l'ensemble des cours, un étudiant peut donc
+y répondre plusieurs fois, et il est possible d'utiliser plusieurs fois le même
+terminal (téléphone, ordinateur), pour que plusieurs étudiants répondent 
+(notamment lorsqu'un étudiant vient en cours sans moyen de connexion à internet).
+
+Il existe une alternative, proposée par Jean-Marie Dumont, CEMU, avec un logiciel
+dédié pour contrôler la présence des étudiants. Cette solution n'a pas été retenue 
+initialement car elle ne permet pas à plusieurs étudiants de répondre sur un même 
+terminal. A terme, elle parait néanmoins avantageuse à plus d'un titre.
+En effet, l'étudiant doit rentrer ses codes d'accès universitaires, ce qui permet
+de façon certaine son identité, en évitant les erreurs de frappe.
+
+Par extension, le même procédé est utilisé pour l'assiduité au tutorat.
+
+## Structure des données
+
+Numéro étudiant, mot-quest.
+
+Date et heure de remplissage du formulaire
+
+## Interprétation des données
+
+La date et l'heure de remplissage sont utilisées pour déterminer à quel cours
+l'étudiant était présent.
+
+Les enseignants conservent l'emploi du temps des cours de pharmacologie,
+ce qui permet de faire correspondre chaque date et heure à un cours.
+
+L'assiduité est définie comme une variable quantitative.
+
+Pour chaque étudiant, il s'agit du nombre
+de cours suivis, divisé par le nombre total de cours disponibles. 
+L'assiduité est exprimée en pourcentage.
+
+Les cours sont classifiés selon leur nature : Lesson Based Learning, 
+Case Base Learning, etc., par l'enseignant qui les dispense.

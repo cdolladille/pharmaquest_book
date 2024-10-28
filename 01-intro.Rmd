@@ -1,0 +1,135 @@
+# Introduction {#intro}
+
+> "Le projet Pharmaquest a vocation à être accessible au plus grand nombre
+d'enseignants de pharmacologie, ou d'autres disciplines médicales"
+
+Ces vingt dernières années, de nombreuses méthodes d’enseignement 
+de la pharmacologie ont été inventées et testées.1 A la traditionnelle leçon 
+magistrale (Lecture-Based Learning, LBL), sont venues s’ajouter des cours 
+orientés sur des problèmes, des travaux collaboratifs entre pairs, des études 
+de cas, ou des méthodologies complexes d’enseignement, telle que le BOPPS 
+(Bridge-in, Objectives, Pre-assessment, Participatory Learning, Post-assessment,
+Summary).1–3 Ces méthodes démontrant bien souvent une amélioration des 
+performances des étudiants lors des examens facultaires de pharmacologie, 
+en comparaison à la LBL. 2,4–6
+
+L’ère du numérique a eu deux effets importants sur les modalités d’apprentissage 
+en pharmacologie : D’abord, le développement de méthodes inédites, reposant 
+sur des supports dématérialisés, comme les cours en ligne, les podcasts et 
+autres vidéos d’apprentissage, les jeux sérieux ;7,8 ensuite, l’augmentation 
+de la disponibilité des ressources déjà existantes, comme la diffusion des 
+supports de cours, l’enregistrement audio et vidéo des cours, la possibilité 
+de tester ses connaissances par des modalités docimologiques d’entrainement.9,10
+
+Ces modalités d’apprentissage à distance ont su capter l’intérêt des 
+étudiants, qui y ont trouvé de nombreux avantages en comparaison des 
+enseignements présentiels, permettant entre autres, d’accéder à des 
+informations plus rapidement, à des supports qu’ils trouvaient plus adaptés 
+que la LBL, ou pour éviter des LBL dont la pertinence était perçue comme 
+moindre, y compris pour l’enseignement de la pharmacologie.11–14  Par voie 
+de conséquence, l’enseignement s’est vu progressivement déporté, au moins 
+en partie, en dehors des murs des facultés de médecine. En parallèle de 
+ces nouvelles modalités, les plus anciennes, comme la LBL, sont fréquemment 
+devenues facultatives, diminuant de facto la nécessité de se déplacer 
+physiquement jusqu’à un lieu d’enseignement.11,12,14 
+
+Définir la modalité la plus efficiente quant aux examens reste sujet à débat. 
+Dans une méta-analyse de 150 études portant sur plus de 21,000 étudiants, 
+Xiao et al ont conclu que certaines méthodes possiblement présentielles 
+pouvaient être moins performante que des méthodes à distance. Ce même 
+travail classait en tête d’efficacité des cours basés sur des problèmes, 
+sans pour autant assurer qu’ils avaient bien lieu en présentiel, ni que 
+les étudiants étaient obligés d’y assister.2 Certaines études suggèrent 
+que les étudiants qui viennent en cours sont plus performants, quand 
+d’autres ne trouvent qu’une faible corrélation entre résultat d’examen 
+et test des connaissance à des modalités d’entrainement.15,16 L’effet de 
+l’assiduité aux enseignements présentiels et donc à la rencontre directe 
+avec l’enseignant est elle-même susceptible d’influencer les performances 
+des étudiants.17
+
+Il faut noter que l’enseignement de pharmacologie est d’une particulière 
+diversité, incluant des notions de sciences fondamentales jusqu’aux 
+applications cliniques. Cette singularité rend d’autant plus difficile 
+la comparaison des résultats entre des systèmes éducatifs différents, ou 
+pour des publics d’étudiants différents (médecins, pharmaciens, paramédicaux, 
+scientifiques). Il n’y a pas de données disponibles sur les performances des 
+étudiants en médecine aux enseignements de pharmacologie dans le système 
+éducatif français.
+
+Le premier objectif de Pharmaquest est d’évaluer dans un système éducatif français, 
+à l’université de Caen Normandie, l’influence de l’assiduité des étudiants 
+de 2ème année de médecine aux modalités d’apprentissage présentielles 
+et à distance sur leurs résultats aux examens facultaires de pharmacologie.
+
+Le projet Pharmaquest a vocation à être accessible au plus grand nombre
+d'enseignants de pharmacologie, ou d'autres disciplines médicales, pour promouvoir
+les études de quantification entre variables d'exposition et réussite aux examens,
+à court, moyen, ou long terme.
+
+## References
+
+1.	Baños, J. E. et al. Beyond lectures and practical courses: Teaching 
+pharmacology using imaginative pedagogical tools. Pharmacol. Res. 202, 107130 (2024).
+
+2.	Xiao, C.-L. et al. Multidimensional evaluation of teaching strategies 
+for pharmacology based on a comprehensive analysis involving 21,269 students. 
+Front. Pharmacol. 14, (2023).
+
+3.	Gerrard, A. Research Guides: Instructional Support: BOPPPS Model: 
+Introduction to Lesson Planning with BOPPPS. 
+https://libguides.usask.ca/c.php?g=696596&p=4941308.
+
+4.	Sumanasekera, W. et al. Evaluation of multiple active learning strategies 
+in a pharmacology course. Curr. Pharm. Teach. Learn. 12, 88–94 (2020).
+
+5.	Geist, M. J., Larimore, D., Rawiszer, H. & Sager, A. W. A. Flipped Versus 
+Traditional Instruction and Achievement in a Baccalaureate Nursing Pharmacology 
+Course. Nurs. Educ. Perspect. 36, 114 (2015).
+
+6.	Michel, M. C., Bischoff, A., zu Heringdorf, D., Neumann, D. & Jakobs, 
+K. H. Problem- vs. lecture-based pharmacology teaching in a German medical 
+school. Naunyn. Schmiedebergs Arch. Pharmacol. 366, 64–68 (2002).
+
+7.	Thomas, V. & Schuessler, J. B. Using Innovative Teaching Strategies to 
+Improve Outcomes in a Pharmacology Course. Nurs. Educ. Perspect. 37, 174 (2016).
+
+8.	Hasan, K. M. & Makary, P. The effect of online quizzes in improving 
+physical therapy students’ exam scores in a pharmacology course. Phys. Ther. 
+Rev. 27, 68–72 (2022).
+
+9.	Kühbeck, F., Berberat, P. O., Engelhardt, S. & Sarikas, A. Correlation 
+of online assessment parameters with summative exam performance in undergraduate 
+medical education of pharmacology: a prospective cohort study. BMC Med. Educ. 
+19, 412 (2019).
+
+10.	Smith, M. M. & Davis, R. G. Can You Escape? The Pharmacology Review Virtual 
+Escape Room. Simul. Gaming 52, 79–87 (2021).
+
+11.	Gupta, A. & Saks, N. S. Exploring medical student decisions regarding 
+attending live lectures and using recorded lectures. Med. Teach. 35, 767–771 (2013).
+
+12.	Mattick, K., Crocker, G. & Bligh, J. Medical student attendance at 
+non-compulsory lectures. Adv. Health Sci. Educ. Theory Pract. 12, 201–210 (2007).
+
+13.	Cardall, S., Krupat, E. & Ulrich, M. Live lecture versus video-recorded 
+lecture: are students voting with their feet? Acad. Med. J. Assoc. Am. Med. 
+Coll. 83, 1174–1178 (2008).
+
+14.	Davis, E. A., Hodgson, Y. & Macaulay, J. O. Engagement of students with 
+lectures in biochemistry and pharmacology. Biochem. Mol. Biol. Educ. Bimon. 
+Publ. Int. Union Biochem. Mol. Biol. 40, 300–309 (2012).
+
+15.	Carlsson, T., Winder, M., Eriksson, A. L. & Wallerstedt, S. M. Student 
+Characteristics Associated with Passing the Exam in Undergraduate Pharmacology 
+Courses—a Cross-sectional Study in Six University Degree Programs. Med. Sci. 
+Educ. 30, 1137–1144 (2020).
+
+16.	Al Khaja, K. A. J., Tayem, Y., James, H., Jaradat, A. & Sequeira, R. P. 
+Pharmacology and therapeutics resource session attendance and academic 
+performance of pre-clerkship medical students in problem-based learning 
+curricula. BMC Med. Educ. 19, 269 (2019).
+
+17.	Powers, C. A. & Carroll, M. A. Student Attendance at Pharmacology 
+Lectures and Its Relation to Exam Performance: A Two Year Observational 
+Analysis. FASEB J. 31, 810.4-810.4 (2017).
+

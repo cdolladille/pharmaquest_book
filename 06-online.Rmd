@@ -1,0 +1,34 @@
+# Assiduité aux ressources en ligne {#online}
+
+## Modalités de recueil
+
+L'outil d'e-learning de l'université de Caen Normandie est eCampus.
+
+Il est possible de connaitre les statistiques de consultation à l'aide d'un module
+dédié.
+
+Ces statistiques peuvent être extraites (contact CEMU, Jean-Marie Dumont),
+elles contiennent les noms, prénoms et code universitaire des étudiants,
+ainsi que le nom de la ressource consulté, la famille de ressource, 
+la date et l'heure de la consultation.
+
+## Structure des données
+
+Nom, prénom, numéro étudiant.
+
+Ressource consultée : titre, type (cours, forum...)
+
+Date et heure de consultation
+
+Il y a plusieurs entrées par ressource et par étudiant, si l'étudiant a consulté
+plusieurs fois cette ressource.
+
+## Interprétation des données
+
+L'assiduité est définie comme une variable quantitative.
+
+Pour chaque étudiant, il s'agit du nombre
+de documents consultés au moins une fois, divisé par le nombre total de documents
+disponibles. L'assiduité est exprimée en pourcentage.
+
+Le répétition de consultation d'un même document n'est pas prise en compte.
